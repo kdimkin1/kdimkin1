@@ -7,7 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdimkin1&layout=compact&theme=buefy)](https://github.com/kdimkin1)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/kdimkin1/kdimkin1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **kdimkin1/kdimkin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

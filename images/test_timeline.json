@@ -1,0 +1,91 @@
+{
+    "timeline" : {
+        "name" : "test",
+        "description" : ""
+    },
+
+    "groups" : [
+          ],
+
+    "events" : [
+              {
+          "name" : "Aerospace Faculty\nSpecialization:\nAutomated control systems\nDiploma with honors",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2006 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "QA  engineer\nQA  lead\nImplementation engineer\nTech support engineer\nProject manager",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2009 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "QA lead",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2017 8 1",
+          "group" : ""
+        },
+              {
+          "name" : "QA  lead",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2020 12 1",
+          "group" : ""
+        }    ],
+
+    "periods" : [
+              {
+          "name" : "Bauman University",
+          "description" : "Aerospace Faculty.\nSpecialization:\nAutomated control systems\nDiploma with honors.",
+          "tagsCsv" : "",
+          "timeFrom" : "1999 9 1 0 0",
+          "timeTo" : "2005 7 3 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "CBOSS",
+          "description" : "QA  engineer.\nQA  lead.\nImplementation engineer.\nMaintenance engineer.\nProject manager.",
+          "tagsCsv" : "",
+          "timeFrom" : "2003 2 5 0 0",
+          "timeTo" : "2016 2 7 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "REDSYS",
+          "description" : "QA  lead.",
+          "tagsCsv" : "",
+          "timeFrom" : "2016 2 9 0 0",
+          "timeTo" : "2019 8 10 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "SOFTFARECOM",
+          "description" : "QA  lead.",
+          "tagsCsv" : "",
+          "timeFrom" : "2019 8 1",
+          "timeTo" : "2022 12 1 0 0",
+          "group" : ""
+        }    ],
+
+    "progresses" : [
+          ],
+
+    "statistics" : [
+          ],
+
+    "statisticsYandexMetrika" : [
+          ],
+
+    "statisticsGoogleAnalytics" : [
+          ],
+
+    "reportingAPIs" : [
+          ],
+
+    "tags" : [
+          ]
+}

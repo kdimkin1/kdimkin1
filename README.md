@@ -1,5 +1,5 @@
 ### Hi there 👋
-####With IT since 2003
+#### With IT since 2003
 
 <p align="center">
 <img width="100%" title="WorkNLearnTimeline" src="images/test_timeline4.png">
@@ -7,7 +7,7 @@
 
 I’m currently expanding my horizons in QA automation:
 - [x] QA Automation Management   
-<a href="http://software-testing.ru/" target="_blank"><img src="http://software-testing.ru/images/stru_banner.gif" border="0" width="88" height="31" alt="Software-Testing.Ru" /></a>
+<a href="http://software-testing.ru/" target="_blank"><img src="images/softwaretesting_ru_banner.gif" border="0" width="88" height="31" alt="Software-Testing.Ru" /></a>
 <a href="http://cert.software-testing.ru/312223539933479500" target="_blank"><img src="images/softwaretesting_Kirienkov_certificate.png" border="0" width="88" height="31" alt="CertificateSWTG" /></a>
 
 - [ ] School of QA Automation Engineers   

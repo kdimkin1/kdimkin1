@@ -1,6 +1,5 @@
 ### Hi there 👋
 #### With IT since 2003
-
 ---
 <p align="center">
 <img width="100%" title="WorkNLearnTimeline" src="images/test_timeline4.png">
@@ -16,6 +15,8 @@ I’m currently expanding my horizons in QA automation:
 - [ ] School of QA Automation Engineers   
   <a href="https://qa.guru/"><img src="images/qaguru_logo.png" border="0" width="88" height="31" alt="qa.guru" /></a>
   <img src="images/QA.GURU_Kirienkov_certificate.png" border="0" width="88" height="31" alt="CertificateQAGURU" />
+  :link: <a target="_blank" href="https://github.com/kdimkin1/KDS_AT_QAGURU_DIPLOMA">Diploma</a></br></br>
+
 
 ---
 

@@ -1,9 +1,12 @@
 ### Hi there 👋
 #### With IT since 2003
 
+---
 <p align="center">
 <img width="100%" title="WorkNLearnTimeline" src="images/test_timeline4.png">
 </p>
+
+---
 
 I’m currently expanding my horizons in QA automation:
 - [x] QA Automation Management   
@@ -14,7 +17,7 @@ I’m currently expanding my horizons in QA automation:
   <a href="https://qa.guru/"><img src="images/qaguru_logo.png" border="0" width="88" height="31" alt="qa.guru" /></a>
   <img src="images/QA.GURU_Kirienkov_certificate.png" border="0" width="88" height="31" alt="CertificateQAGURU" />
 
-
+---
 
 
 <!--

@@ -2,7 +2,7 @@
 #### With IT since 2003
 ---
 <p align="center">
-<img width="100%" title="WorkNLearnTimeline" src="images/test_timeline4.png">
+<a href="https://time.graphics/ru/embed?v=1&id=669153" target="_blank"><img width="100%" title="WorkNLearnTimeline" src="images/test_timeline4.png"></a>
 </p>
 
 ---

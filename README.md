@@ -12,7 +12,7 @@ I’m currently expanding my horizons in QA automation:
 <a href="http://software-testing.ru/" target="_blank"><img src="images/softwaretesting_ru_banner.gif" border="0" width="88" height="31" alt="Software-Testing.Ru" /></a>
 <a href="http://cert.software-testing.ru/312223539933479500" target="_blank"><img src="images/softwaretesting_Kirienkov_certificate.png" border="0" width="88" height="31" alt="CertificateSWTG" /></a>
 
-- [ ] School of QA Automation Engineers   
+- [x] School of QA Automation Engineers   
   <a href="https://qa.guru/"><img src="images/qaguru_logo.png" border="0" width="88" height="31" alt="qa.guru" /></a>
   <img src="images/QA.GURU_Kirienkov_certificate.png" border="0" width="88" height="31" alt="CertificateQAGURU" />
   :link: <a target="_blank" href="https://github.com/kdimkin1/KDS_AT_QAGURU_DIPLOMA">Diploma</a></br></br>
